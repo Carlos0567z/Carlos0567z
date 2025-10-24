@@ -32,9 +32,9 @@ Aquí puedes mostrar los proyectos de los que estás más orgulloso. ¡Esto es l
 <table>
 <tr>
 <td width="50%" valign="top">
-<h4><a href="[ENLACE_A_TU_REPO_1]" target="_blank">1. [Nombre de tu Proyecto 1]</a></h4>
-<p>Breve descripción (1-2 líneas) de lo que hace el proyecto. ¿Es un e-commerce? ¿Un clon de una red social? ¿Una API REST?</p>
-<p><strong>Stack:</strong> [React, Node.js, Express, MySQL, etc.]</p>
+<h4><a href="https://github.com/Carlos0567z/ProyectoAppWebEast" target="_blank">1. App Web East</a></h4>
+<p>Es una Aplicación Web (SPA) desarrollada con React que consume datos abiertos de las ciudades de Zaragoza y Murcia para permitir a los usuarios buscar y filtrar restaurantes y alojamientos.</p>
+<p><strong>Stack:</strong> [React, Vite, JavaScript, HTML, CSS]</p>
 </td>
 <td width="50%" valign="top">
 <a href="[ENLACE_A_LA_APP_DESPLEGADA_1]" target="_blank">
