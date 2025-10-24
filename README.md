@@ -37,8 +37,12 @@ Aquí puedes mostrar los proyectos de los que estás más orgulloso. ¡Esto es l
 <p><strong>Stack:</strong> [React, Vite, JavaScript, HTML, CSS]</p>
 </td>
 <td width="50%" valign="top">
-<a href="[ENLACE_A_LA_APP_DESPLEGADA_1]" target="_blank">
-<img src="[ENLACE_A_IMAGEN_O_GIF_DEL_PROYECTO_1]" alt="Demo del Proyecto 1" width="100%">
+<a href="https://eat-and-rest-murcia-zaragoza.vercel.app/" target="_blank">
+<img 
+    src="https://i.imgur.com/TuEjemploDeDemo.gif" 
+    alt="Demo de Eat & Rest" 
+    width="100%"
+>
 </a>
 </td>
 </tr>
