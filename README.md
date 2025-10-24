@@ -27,8 +27,6 @@ Me apasiona transformar ideas en soluciones tecnológicas eficientes y escalable
 ---
 
 ### 🚀 Proyectos Destacados
-Aquí puedes mostrar los proyectos de los que estás más orgulloso. ¡Esto es lo que miran las empresas!
-
 <table>
 <tr>
 <td width="50%" valign="top">
