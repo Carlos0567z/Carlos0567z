@@ -1,11 +1,11 @@
-# [Tu Nombre Completo]
+# Carlos Almendras
 ### Desarrollador Full Stack en Formación | Estudiante de DAW en U-tad
 
 <p align="center">
-<a href="https://linkedin.com/in/[TU_USUARIO_LINKEDIN]" target="_blank">
+<a href="https://www.linkedin.com/in/carlos-almendras-ledezma/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="mailto:[TU_EMAIL@u-tad.com]">
+<a href="mailto:carlos.almeledezma@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 <a href="https://[TU-PORTFOLIO-WEB].com" target="_blank">
@@ -21,8 +21,8 @@ Soy un desarrollador de software y estudiante de **Desarrollo de Aplicaciones We
 Me apasiona transformar ideas en soluciones tecnológicas eficientes y escalables. Mi formación en U-tad me ha proporcionado una base sólida tanto en el **Frontend** (con tecnologías como React) como en el **Backend** (con Java/Node.js).
 
 - 🚀 &nbsp; **Busco activamente** mi primera oportunidad laboral (prácticas FCT o un puesto junior) donde pueda aplicar mis conocimientos, contribuir a proyectos desafiantes y seguir aprendiendo de un equipo profesional.
-- 🔭 &nbsp; Actualmente estoy trabajando en **[Nombre de tu proyecto TFG o personal más importante]**.
-- 📫 &nbsp; La mejor forma de contactarme es a través de [LinkedIn](https://linkedin.com/in/[TU_USUARIO_LINKEDIN]) o por [email](mailto:[TU_EMAIL@u-tad.com]).
+- 🔭 &nbsp; Actualmente estoy trabajando en **EL TFG**.
+- 📫 &nbsp; La mejor forma de contactarme es a través de [LinkedIn](https://www.linkedin.com/in/carlos-almendras-ledezma/) o por [email](mailto:carlos.almeledezma@gmail.com).
 
 ---
 
