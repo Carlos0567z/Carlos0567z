@@ -62,11 +62,11 @@ Actualmente estoy centrando todos mis esfuerzos en mi formación académica y en
 
 ---
 
-### 🚀 Mi Stack Tecnológico
-Estos son las tecnologías y herramientas con las que trabajo y aprendo actualmente:
+### 🚀 Technologies I Use
 
 <p align="left">
-  <strong>Frontend:</strong><br>
+  <strong>🎨 Frontend</strong>
+  <br><br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -74,27 +74,34 @@ Estos son las tecnologías y herramientas con las que trabajo y aprendo actualme
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
   <br><br>
 
-  <strong>Backend:</strong><br>
+  <strong>🛠️ Backend</strong>
+  <br><br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
   <br><br>
 
-  <strong>Bases de Datos y Herramientas:</strong><br>
+  <strong>🗄️ Databases</strong>
+  <br><br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <br><br>
+
+  <strong>⚙️ Others</strong>
+  <br><br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 📊 Mis Estadísticas y Actividad
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Carlos0567z&show_icons=true&include_all_commits=true&count_private=true&border_radius=5&theme=tokyonight" alt="Estadísticas de GitHub" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos0567z&layout=compact&border_radius=5&theme=tokyonight" alt="Lenguajes más usados" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-contribution-snake.vercel.app/api?username=Carlos0567z&color_snake=cyan&color_dots=#d6d6d6" alt="Snake animation of GitHub contributions">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Carlos0567z&theme=tokyonight&hide_border=true&area=true&line=70a5fd" alt="Gráfico de Actividad de GitHub">
 </p>
