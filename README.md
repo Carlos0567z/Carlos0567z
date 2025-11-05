@@ -62,7 +62,7 @@ Actualmente estoy centrando todos mis esfuerzos en mi formación académica y en
 
 ---
 
-### 🚀 Technologies I Use
+### 🚀 Tecnologías Utilizadas
 
 <p align="left">
   <strong>🎨 Frontend</strong>
@@ -87,7 +87,7 @@ Actualmente estoy centrando todos mis esfuerzos en mi formación académica y en
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <br><br>
 
-  <strong>⚙️ Others</strong>
+  <strong>⚙️ Otros</strong>
   <br><br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
@@ -100,8 +100,4 @@ Actualmente estoy centrando todos mis esfuerzos en mi formación académica y en
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Carlos0567z&show_icons=true&include_all_commits=true&count_private=true&border_radius=5&theme=tokyonight" alt="Estadísticas de GitHub" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos0567z&layout=compact&border_radius=5&theme=tokyonight" alt="Lenguajes más usados" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Carlos0567z&theme=tokyonight&hide_border=true&area=true&line=70a5fd" alt="Gráfico de Actividad de GitHub">
-</p>
+</p
