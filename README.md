@@ -43,7 +43,7 @@ Actualmente estoy centrando todos mis esfuerzos en mi formación académica y en
 
 * **Título:** Grado Superior en Desarrollo de Aplicaciones Web (DAW)
 * **Centro:** U-tad (Centro Universitario de Tecnología y Arte Digital)
-* **Periodo:** 2023 - Presente
+* **Periodo:** 2024 - Presente
 * **Competencias clave:** Desarrollo Frontend (React, JS), Desarrollo Backend (Java, Node.js), Bases de Datos (SQL, NoSQL), Despliegue y Control de Versiones.
   
 </td>
