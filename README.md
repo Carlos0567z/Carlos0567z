@@ -107,6 +107,6 @@ Actualmente estoy centrando todos mis esfuerzos en mi formación académica y en
 ### 📊 Mis Estadísticas y Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carlos0567z&show_icons=true&include_all_commits=true&border_radius=5&theme=tokyonight" alt="Estadísticas de GitHub" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos0567z&layout=compact&border_radius=5&theme=tokyonight" alt="Lenguajes más usados" width="48%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Carlos0567z&theme=tokyonight" alt="Detalles" width="48%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Carlos0567z&theme=tokyonight" alt="Estadísticas" width="48%">
 </p>
