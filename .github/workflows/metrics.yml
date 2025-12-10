@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # Se actualiza cada 24 horas automáticamente
   schedule: [{cron: "0 0 * * *"}]
-  # Permite ejecutarlo manualmente desde la pestaña Actions
   workflow_dispatch:
-  # Se actualiza cada vez que subes cambios a la rama principal
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -14,30 +11,20 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Tu token secreto (NO BORRES ESTO)
-          token: ${{ secrets.METRICS_TOKEN }}
-          
-          # Nombre del archivo que se generará
           filename: github-metrics.svg
-          
-          # Configuración General
-          user: Carlos0567z
-          template: classic
-          base: header, activity, community, repositories, metadata
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, metadata
           config_timezone: America/Mexico_City
-          config_display: large
           
-          # 1. Calendario 3D (Isométrico)
+          # DISEÑO 3D EXPANDIDO
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: full-year # Muestra todo el año
           
-          # 2. Lenguajes Detallados
-          plugin_languages: yes
-          plugin_languages_details: lines, percentage
-          plugin_languages_sections: most-used
-          plugin_languages_limit: 8
+          # HÁBITOS (Muestra gráficas de día/noche)
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_days: 14
           
-          # 3. Trofeos y Logros (Gamer)
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: B
+          # ESTRELLAS (Muestra repos que te gustan)
+          plugin_stars: yes
+          plugin_stars_limit: 3
