@@ -27,7 +27,7 @@ Desarrollador de software y estudiante de **Desarrollo de Aplicaciones Web (DAW)
 
 Me apasiona transformar ideas en soluciones tecnológicas eficientes y escalables. Mi formación me está proporcionando una base sólida tanto en **Frontend** como en **Backend**.
 
-* 🚀 &nbsp; **Busco activamente** mi primera oportunidad laboral (prácticas FCT o un puesto junior) donde pueda aplicar mis conocimientos y seguir aprendiendo de un equipo profesional.
+* 🚀 &nbsp; **Busco activamente** mi primera oportunidad laboral (puesto junior) donde pueda aplicar mis conocimientos y seguir aprendiendo en equipo profesional.
 * 📫 &nbsp; La mejor forma de contactarme es a través de [LinkedIn](https://www.linkedin.com/in/carlos-almendras-ledezma/) o por [email](mailto:carlos.almeledezma@gmail.com).
 
 ---
