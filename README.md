@@ -13,7 +13,7 @@
   <a href="mailto:carlos.almeledezma@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://[TU-PORTFOLIO-WEB].com" target="_blank">
+  <a href="https://carlos-almendras.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=rss&logoColor=white" alt="Portfolio">
   </a>
 </p>
@@ -23,7 +23,7 @@
 </p>
 
 ### Sobre Mí <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-Soy un desarrollador de software y estudiante de **Desarrollo de Aplicaciones Web (DAW)** en la **U-tad**, enfocado en construir una carrera como **Desarrollador Full Stack**.
+Desarrollador de software y estudiante de **Desarrollo de Aplicaciones Web (DAW)** en la **U-tad**, enfocado en construir una carrera como **Desarrollador Full Stack**.
 
 Me apasiona transformar ideas en soluciones tecnológicas eficientes y escalables. Mi formación me está proporcionando una base sólida tanto en **Frontend** como en **Backend**.
 
@@ -51,10 +51,10 @@ Actualmente estoy centrando todos mis esfuerzos en mi formación académica y en
 
 ### 🔭 Proyecto Fin de Grado (TFG)
 
-* **Proyecto:** `Pensando`
-* **Descripción:** `Pensando`
-* **Stack Tecnológico:** `Pensando`
-* **Repositorio:** `Pensando`
+* **Proyecto:** `InventIA Chef`
+* **Descripción:** `Despensa inteligente encargada de generar recetas con IA apartir de lo que tienes disponible en la despensa. También cuenta con apartado de comunidad.`
+* **Stack Tecnológico:** `Tecnologia MERN: MongoDB - Express.js - React.js - Node.js`
+* **Repositorio:** `Es privado de momento.`
 
 </td>
 </tr>
